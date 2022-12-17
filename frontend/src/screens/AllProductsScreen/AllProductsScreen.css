@@ -1,0 +1,48 @@
+.phones_routes {
+  display: flex;
+  gap: 0 13px;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.phone_routes-text {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+
+  /* Gray / Secondary */
+
+  color: #89939a;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px 16px;
+  margin-bottom: 80px;
+}
+
+.products_title {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  /* identical to box height, or 117% */
+
+  letter-spacing: -0.01em;
+
+  /* Gray / Primary */
+
+  color: #313237;
+}
+
+.products_count-of-phones {
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height, or 150% */
+
+  /* Gray / Secondary */
+
+  color: #89939a;
+  margin-bottom: 40px;
+}
